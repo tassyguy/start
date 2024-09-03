@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "Simon",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -115,21 +115,26 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "https://simonxphillips.com",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Gmail",
+						"url": "https://gmail.com/",
+						"icon": "simple-icons:gmail"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Google Drive",
+						"url": "https://drive.google.com/",
+						"icon": "simple-icons:googledrive"
 					},
 					{
-						"name": "OCI",
+						"name": "Edit Me",
+						"url": "https://www.oracle.com/cloud/",
+						"icon": "simple-icons:oracle"
+					},
+					{
+						"name": "Edit Me",
 						"url": "https://www.oracle.com/cloud/",
 						"icon": "simple-icons:oracle"
 					}
@@ -151,14 +156,19 @@
 						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
+						"name": "Localhost",
+						"url": "localhost:3000",
 						"icon": "material-symbols:logo-dev"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "ChatGPT",
+						"url": "https://chat.openai.com/",
+						"icon": "simple-icons:openai"
+					},
+					{
+						"name": "Gemini",
+						"url": "https://gemini.google.com/app",
+						"icon": "simple-icons:googlegemini"
 					}
 				]
 			},
@@ -168,14 +178,14 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "Snapchat",
+						"url": "https://web.snapchat.com/",
+						"icon": "simple-icons:snapchat"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "X",
+						"url": "https://x.com",
+						"icon": "simple-icons:x"
 					},
 					{
 						"name": "Reddit",
@@ -183,9 +193,14 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Instagram",
+						"url": "https://instagram.com",
+						"icon": "simple-icons:instagram"
+					},
+					{
+						"name": "Messenger",
+						"url": "https://messenger.com",
+						"icon": "simple-icons:messenger"
 					}
 				]
 			},
@@ -195,51 +210,61 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
+						"name": "Edit Me",
 						"url": "https://polygon.com",
 						"icon": "uil:polygon"
 					},
 					{
-						"name": "IGN",
+						"name": "Edit Me",
 						"url": "https://ign.com",
 						"icon": "mdi:currency-sign"
 					},
 					{
-						"name": "RPS",
+						"name": "Edit Me",
 						"url": "https://rockpapershotgun.com/",
 						"icon": "ph:toilet-paper-bold"
 					},
 					{
-						"name": "80lv",
+						"name": "Edit Me",
+						"url": "https://80.lv/",
+						"icon": "tabler:hand-rock"
+					},
+					{
+						"name": "Edit Me",
 						"url": "https://80.lv/",
 						"icon": "tabler:hand-rock"
 					}
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Entertainment",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "YouTube",
+						"url": "https://youtube.com/",
+						"icon": "simple-icons:youtube"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Spotify",
+						"url": "https://open.spotify.com/",
+						"icon": "simple-icons:spotify"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "TikTok",
+						"url": "https://www.tiktok.com/",
+						"icon": "simple-icons:tiktok"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Netflix",
+						"url": "https://netflix.com/",
+						"icon": "simple-icons:netflix"
+					},
+					{
+						"name": "Disney+",
+						"url": "https://www.disneyplus.com/",
+						"icon": "arcticons:disney"
 					}
 				]
 			},
@@ -249,22 +274,27 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
+						"name": "Edit Me",
 						"url": "https://techcrunch.com/",
 						"icon": "game-icons:techno-heart"
 					},
 					{
-						"name": "Verge",
+						"name": "Edit Me",
 						"url": "https://www.theverge.com/",
 						"icon": "arcticons:verge"
 					},
 					{
-						"name": "It's Foss",
+						"name": "Edit Me",
 						"url": "https://itsfoss.com/",
 						"icon": "ri:mastodon-fill"
 					},
 					{
-						"name": "9To5 Linux",
+						"name": "Edit Me",
+						"url": "https://9to5linux.com/",
+						"icon": "uil:linux"
+					},
+					{
+						"name": "Edit Me",
 						"url": "https://9to5linux.com/",
 						"icon": "uil:linux"
 					}
