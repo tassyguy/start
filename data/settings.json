@@ -129,9 +129,9 @@
 						"icon": "simple-icons:googledrive"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Amazon",
+						"url": "https://www.amazon.com/",
+						"icon": "simple-icons:amazon"
 					},
 					{
 						"name": "Edit Me",
@@ -198,9 +198,9 @@
 						"icon": "simple-icons:instagram"
 					},
 					{
-						"name": "Messenger",
-						"url": "https://messenger.com",
-						"icon": "simple-icons:messenger"
+						"name": "TikTok",
+						"url": "https://www.tiktok.com/",
+						"icon": "simple-icons:tiktok"
 					}
 				]
 			},
@@ -252,11 +252,6 @@
 						"icon": "simple-icons:spotify"
 					},
 					{
-						"name": "TikTok",
-						"url": "https://www.tiktok.com/",
-						"icon": "simple-icons:tiktok"
-					},
-					{
 						"name": "Netflix",
 						"url": "https://netflix.com/",
 						"icon": "simple-icons:netflix"
@@ -265,6 +260,11 @@
 						"name": "Disney+",
 						"url": "https://www.disneyplus.com/",
 						"icon": "arcticons:disney"
+					},
+					{
+						"name": "TikTok",
+						"url": "https://www.tiktok.com/",
+						"icon": "simple-icons:tiktok"
 					}
 				]
 			},
@@ -274,29 +274,29 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Edit Me",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Messenger",
+						"url": "https://messenger.com/",
+						"icon": "simple-icons:messenger"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "WhatsApp",
+						"url": "https://web.whatsapp.com/",
+						"icon": "simple-icons:whatsapp"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "Snapchat",
+						"url": "https://web.snapchat.com/",
+						"icon": "simple-icons:snapchat"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Telegram",
+						"url": "https://web.telegram.org/",
+						"icon": "simple-icons:telegram"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Discord",
+						"url": "https://discord.com/channels/@me",
+						"icon": "simple-icons:discord"
 					}
 				]
 			}
