@@ -124,7 +124,7 @@
 						"icon": "simple-icons:gmail"
 					},
 					{
-						"name": "Google Drive",
+						"name": "Drive",
 						"url": "https://drive.google.com/",
 						"icon": "simple-icons:googledrive"
 					},
@@ -134,9 +134,9 @@
 						"icon": "simple-icons:amazon"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Maps",
+						"url": "https://www.google.com/maps/",
+						"icon": "simple-icons:googlemaps"
 					}
 				]
 			},
@@ -151,9 +151,9 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "MDN",
+						"url": "https://developer.mozilla.org/en-US/",
+						"icon": "simple-icons:mozilla"
 					},
 					{
 						"name": "Localhost",
@@ -210,34 +210,34 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Edit Me",
+						"name": "Polygon",
 						"url": "https://polygon.com",
 						"icon": "uil:polygon"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://ign.com",
+						"name": "SteamDB",
+						"url": "https://steamdb.info/",
 						"icon": "mdi:currency-sign"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
+						"name": "Kotaku",
+						"url": "https://kotaku.com/",
+						"icon": "simple-icons:kick"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Xbox",
+						"url": "https://www.xbox.com/en-US/play",
+						"icon": "mdi:controller"
 					},
 					{
-						"name": "Edit Me",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Twitch",
+						"url": "https://www.twitch.tv/",
+						"icon": "simple-icons:twitch"
 					}
 				]
 			},
 			{
-				"title": "Entertainment",
+				"title": "Stream",
 				"color": "blue",
 				"align": "left",
 				"links": [
@@ -269,7 +269,7 @@
 				]
 			},
 			{
-				"title": "Tech",
+				"title": "Chat",
 				"color": "yellow",
 				"align": "left",
 				"links": [
